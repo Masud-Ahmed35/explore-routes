@@ -1,0 +1,14 @@
+.header a {
+    text-decoration: none;
+    color: chocolate;
+    font-size: 25px;
+    font-weight: 700;
+    margin-right: 25px;
+    padding: 2px 5px;
+}
+
+.header a:hover {
+    background-color: darkgray;
+    padding: 7px 7px;
+    border-radius: 7px;
+}
