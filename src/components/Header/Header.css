@@ -9,6 +9,11 @@
 
 .header a:hover {
     background-color: darkgray;
-    padding: 7px 7px;
+    padding: 5px 5px;
+    border-radius: 7px;
+}
+
+.active {
+    background-color: darkseagreen;
     border-radius: 7px;
 }
